@@ -51,19 +51,19 @@ This ensures **full automation** and reproducibility for experimental evaluation
 
 ```
 Dataset (Excel / CSV)
-↓
+       ↓
 Preprocessing & Encoding
-↓
+       ↓
 Federated Client Partitioning
-↓
+       ↓
 Local LightGBM Training (Per Client)
-↓
+       ↓
 Federated Ensemble Prediction
-↓
+       ↓
 Attack Simulation
-↓
+       ↓
 SHAP Explainability (Local + Global)
-↓
+       ↓
 Saved Outputs (CSV + Visualizations)
 ```
 
