@@ -176,12 +176,12 @@ streamlit run app.py
 
 
 ### 👨‍🏫 Authorship & Supervision
+---
 Student Researcher: K Praveen Kumar
 Research Supervisor Professor : Dr. Manish Kumar
  
-
 This repository represents original research work developed as part of an academic paper.
-
+---
 
 
 ### 📌 Citation
