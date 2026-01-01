@@ -40,13 +40,13 @@ To design and evaluate a **federated intrusion detection framework** for IoHT / 
 This ensures **full automation** and reproducibility for experimental evaluation.
 
 ---
-
+---
 ##### 📸 Result
 
 ![Screenshot_Shap_plot](outputs/shap_beeswarm.png)
 ![Screenshot_shap_bar_plot](outputs/shap_bar.png)
 ![Screenshot_summary_bar_plot](outputs/shap_summary_bar.png)
-
+---
 ## 🧠 System Architecture
 
 ```
